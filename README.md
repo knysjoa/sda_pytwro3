@@ -10,3 +10,4 @@
 * Domyślne argumenty funkcji [(ZADANIE)](zadania/default_args.md)
 * Argumenty pozycyjne i nazwane funkcji [(ZADANIE)](zadania/positional_named_args.md)
 * Argumenty wielokrotne *args, **kwargs [(ZADANIE)](zadania/args_kwargs.md)
+* Przekazywanie rozpakowanych argumentów w wywołaniu funkcji (* oraz **) [(ZADANIE)](zadania/unpack_args_kwargs.md)
