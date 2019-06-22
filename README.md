@@ -11,3 +11,4 @@
 * Argumenty pozycyjne i nazwane funkcji [(ZADANIE)](zadania/positional_named_args.md)
 * Argumenty wielokrotne *args, **kwargs [(ZADANIE)](zadania/args_kwargs.md)
 * Przekazywanie rozpakowanych argumentów w wywołaniu funkcji (* oraz **) [(ZADANIE)](zadania/unpack_args_kwargs.md)
+* Rozpakowanie kolekcji przy przypisaniu do zmiennych (a, b, *c=foo) [(ZADANIE)](zadania/unpack_vars.md)
